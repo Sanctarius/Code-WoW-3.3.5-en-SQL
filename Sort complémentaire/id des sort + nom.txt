@@ -1,0 +1,16 @@
+5487 (Druide) - Forme d'ours
+6807 (Druide) - Mutiler ( Grade 1 )
+71 (Guerrier) - Posture Défensive
+2458 (Guerrier) - Posture Berserker
+7328 (Paladin) - Rédemption ( Grade 1 )
+697 (Démoniste) - Invocation Marcheur du vide
+712 (Démoniste) - Invocation Succube
+691 (Démoniste) - Invocation Chasseur corrompu
+1515 (Chasseur) - Apprivoise une bête
+883 (Chasseur) - Appel du familier
+6991 (Chasseur) - Nourrir le familier
+2641 (Chasseur) - Renvoyer le familier
+982 (Chasseur) - Ressusciter le familier
+8071 (Chaman) - Totem peau de pierre ( Grade 1 )
+3599 (Chaman) - Totem Incendiaire ( Grade 1 )
+5394 (Chaman) - Totem Guérisseur ( Grade 1 )
